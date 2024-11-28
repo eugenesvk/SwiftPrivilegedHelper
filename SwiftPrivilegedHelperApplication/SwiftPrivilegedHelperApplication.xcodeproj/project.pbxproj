@@ -252,7 +252,6 @@
 				Base,
 			);
 			mainGroup = 53604BFA215E12F300071149;
-			productRefGroup = 53604C04215E12F300071149 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
